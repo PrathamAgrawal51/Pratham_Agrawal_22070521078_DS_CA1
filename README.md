@@ -5,7 +5,7 @@
 ## Sem: 7th
 ## Sec: C
 
-![Correlation Heatmap](asset_price_correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/PrathamAgrawal51/Pratham_Agrawal_22070521078_DS_CA1/blob/65d3ab52b6e34c6352a90dcdf4ea6a0268c302f3/Visualizations/asset_price_correlation_heatmap.png)
 
 ## 📖 Project Overview
 
