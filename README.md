@@ -1,9 +1,9 @@
 # US Stock Market & Commodity Analysis (2019-2024)
 
-##Name: Pratham Agrawal
-##PRN: 22070521078
-##Sem: 7th
-##Sec: C
+## Name: Pratham Agrawal
+## PRN: 22070521078
+## Sem: 7th
+## Sec: C
 
 ![Correlation Heatmap](asset_price_correlation_heatmap.png)
 
