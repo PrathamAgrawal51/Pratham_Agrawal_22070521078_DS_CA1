@@ -1,4 +1,4 @@
-# US Stock Market & Commodity Analysis (2019-2024)
+# 📈 US Stock Market & Commodity Analysis (2019-2024)
 
 ## Name: Pratham Agrawal
 ## PRN: 22070521078
